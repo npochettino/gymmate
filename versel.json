@@ -1,0 +1,10 @@
+{
+    "projects": {
+      "gymmate-frontend": {
+        "source": "apps/frontend"
+      },
+      "gymmate-backend": {
+        "source": "apps/backend"
+      }
+    }
+  }
