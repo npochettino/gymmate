@@ -1,7 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { X } from "lucide-react";
+import { useState } from "react";
 import { Plus, Pencil, Trash2, Search } from "lucide-react";
 import MemberModal, { Member } from "../components/MemberModal";
 
